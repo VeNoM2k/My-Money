@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">My Money</string>
+    <string name="my_money">My Money</string>
+    <string name="login_register">Login/Register</string>
+    <string name="todo">TODO</string>
+    <string-array name="month">
+        <item>JAN</item>
+        <item>FEB</item>
+        <item>MAR</item>
+        <item>APR</item>
+        <item>MAY</item>
+        <item>JUN</item>
+        <item>JUL</item>
+        <item>AUG</item>
+        <item>SEP</item>
+        <item>OCT</item>
+        <item>NOV</item>
+        <item>DEC</item>
+    </string-array>
+</resources>
